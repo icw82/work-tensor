@@ -1,11 +1,5 @@
-/*
+/.local
 
-!/lint-configs
-!/ya-ws-builder
-
-!/sources/
-
-!/package.json
-!/eslint.config.js
-
-!/.gitignore
+/sources/.*
+/node_modules
+/package-lock.json

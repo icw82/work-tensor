@@ -15,7 +15,7 @@ export default [
         ],
         languageOptions: {
             parserOptions: {
-                project: './client/tsconfig.eslint.json',
+                project: 'client/tsconfig.json',
             },
         },
         rules: {
@@ -30,15 +30,9 @@ export default [
         ],
         languageOptions: {
             parserOptions: {
-                project: './client/tsconfig.eslint.json',
+                project: 'client/tsconfig.json',
             },
         },
-        // rules: {
-        //     '@typescript-eslint/comma-dangle': [
-        //         'error',
-        //         'never',
-        //     ],
-        // },
     }, {
         files: ['client/**/*.js'],
         ignores: ['client/**/*.router.js'],

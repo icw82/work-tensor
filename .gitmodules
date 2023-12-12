@@ -1,9 +1,3 @@
-[submodule "lint-configs"]
-	path = lint-configs
-	url = git@github.com:icw82/lint-configs.git
-[submodule "ya-ws-builder"]
-	path = ya-ws-builder
-	url = git@github.com:icw82/ya-ws-builder.git
 [submodule "sources/eo/attachments"]
 	path = sources/eo/attachments
 	url = git@git.sbis.ru:eo/attachments.git

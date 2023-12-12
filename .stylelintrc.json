@@ -1,0 +1,8 @@
+{
+    "extends": [
+        "./lint-configs/stylelint/base.json"
+    ],
+    "rules": {
+        "selector-max-type": 0
+    }
+}

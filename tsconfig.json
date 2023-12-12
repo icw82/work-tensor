@@ -1,0 +1,45 @@
+{
+    "compilerOptions": {
+        // "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
+        "esModuleInterop": true,
+        "jsx": "react-jsx",
+        "module": "AMD",
+        "moduleResolution": "node",
+        "paths": {
+            "*": [
+                "sources/edo/core/client/*",
+                "sources/edo/edo-client/client/*",
+                "sources/eo/core/client/*",
+                "sources/eo/custom-ui/client/*",
+                "sources/eo/registry/client/*",
+                "sources/fed/core/client/*",
+                "sources/root/sbis3-docview/*",
+                "sources/saby/types/*",
+                "sources/saby/ui/*",
+                "sources/saby/wasaby-controls/*",
+            ],
+            "Core/*": [
+                "sources/sbis/ws/WS.Core/core/*"
+            ],
+            "Lib/*": [
+                "sources/sbis/ws/WS.Core/lib/*"
+            ]
+        },
+        "strict": true,
+        "target": "ES2021",
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+        "types": [
+            "node"
+        ]
+    }
+    // "include": [
+    //     "./**/*.ts",
+    //     "./**/*.tsx"
+    // ],
+    // "files": [
+    //     "./builds/online/build-ui/resources/WS.Core/global.d.ts"
+    // ]
+}
