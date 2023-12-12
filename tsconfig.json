@@ -18,6 +18,7 @@
                 "sources/saby/types/*",
                 "sources/saby/ui/*",
                 "sources/saby/wasaby-controls/*",
+                "sources/sbis/rmi/src/*",
             ],
             "Core/*": [
                 "sources/sbis/ws/WS.Core/core/*"

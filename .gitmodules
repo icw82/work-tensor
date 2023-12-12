@@ -91,3 +91,6 @@
 [submodule "app/ya-ws-builder"]
 	path = app/ya-ws-builder
 	url = git@github.com:icw82/ya-ws-builder.git
+[submodule "sources/sbis/rmi"]
+	path = sources/sbis/rmi
+	url = git@git.sbis.ru:sbis/rmi.git
