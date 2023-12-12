@@ -85,3 +85,9 @@
 [submodule "sources/staff/staff"]
 	path = sources/staff/staff
 	url = git@git.sbis.ru:staff/staff.git
+[submodule "app/lint-configs"]
+	path = app/lint-configs
+	url = git@github.com:icw82/lint-configs.git
+[submodule "app/ya-ws-builder"]
+	path = app/ya-ws-builder
+	url = git@github.com:icw82/ya-ws-builder.git
