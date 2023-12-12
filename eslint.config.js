@@ -1,5 +1,5 @@
-import { all } from './lint-configs/eslint/eslint.config.mjs';
-import { es5 } from './lint-configs/eslint/es5.config.mjs';
+import { all } from './app/lint-configs/eslint/eslint.config.mjs';
+import { es5 } from './app/lint-configs/eslint/es5.config.mjs';
 
 
 export default [

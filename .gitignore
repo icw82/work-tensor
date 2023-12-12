@@ -1,5 +1,9 @@
+# Для локальных файлов
 /.local
 
+# Исходники
 /sources/.*
+
+# NodeJS + NPM
 /node_modules
 /package-lock.json
