@@ -94,3 +94,9 @@
 [submodule "sources/sbis/rmi"]
 	path = sources/sbis/rmi
 	url = git@git.sbis.ru:sbis/rmi.git
+[submodule "sources/saby/i18n"]
+	path = sources/saby/i18n
+	url = git@git.sbis.ru:saby/i18n.git
+[submodule "sources/saby/wasaby-requirejs-loader"]
+	path = sources/saby/wasaby-requirejs-loader
+	url = git@git.sbis.ru:saby/wasaby-requirejs-loader.git

@@ -18,10 +18,16 @@
                 "sources/saby/types/*",
                 "sources/saby/ui/*",
                 "sources/saby/wasaby-controls/*",
-                "sources/sbis/rmi/src/*",
+                "sources/saby/wasaby-requirejs-loader/*",
+                "sources/sbis/core/*",
+                "sources/sbis/rmi/src/client/*",
+                "sources/sbis/ws/*",
             ],
             "Core/*": [
                 "sources/sbis/ws/WS.Core/core/*"
+            ],
+            "UICore/*": [
+                "sources/saby/ui/UIReact/UICore/*"
             ],
             "Lib/*": [
                 "sources/sbis/ws/WS.Core/lib/*"
@@ -36,7 +42,7 @@
             "node",
             // "jest"
         ]
-    }
+    },
     // "include": [
     //     "./**/*.ts",
     //     "./**/*.tsx"
@@ -44,4 +50,8 @@
     // "files": [
     //     "./builds/online/build-ui/resources/WS.Core/global.d.ts"
     // ]
+
+    // "ts-node": {
+    //     "transpileOnly": true,
+    // }
 }
