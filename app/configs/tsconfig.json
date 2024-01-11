@@ -48,7 +48,7 @@
     //     "./**/*.tsx"
     // ],
     // "files": [
-    //     "./builds/online/build-ui/resources/WS.Core/global.d.ts"
+    //     "../mocks/global.d.ts"
     // ]
 
     // "ts-node": {
