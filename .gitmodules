@@ -88,12 +88,6 @@
 [submodule "sources/staff/staff"]
 	path = sources/staff/staff
 	url = git@git.sbis.ru:staff/staff.git
-[submodule "app/lint-configs"]
-	path = app/lint-configs
-	url = git@github.com:icw82/lint-configs.git
-[submodule "app/ya-ws-builder"]
-	path = app/ya-ws-builder
-	url = git@github.com:icw82/ya-ws-builder.git
 [submodule "sources/sbis/rmi"]
 	path = sources/sbis/rmi
 	url = git@git.sbis.ru:sbis/rmi.git
@@ -103,3 +97,9 @@
 [submodule "sources/saby/wasaby-requirejs-loader"]
 	path = sources/saby/wasaby-requirejs-loader
 	url = git@git.sbis.ru:saby/wasaby-requirejs-loader.git
+[submodule "app/lint-configs"]
+	path = app/lint-configs
+	url = https://github.com/icw82/lint-configs.git
+[submodule "app/ya-ws-builder"]
+	path = app/ya-ws-builder
+	url = https://github.com/icw82/ya-ws-builder
