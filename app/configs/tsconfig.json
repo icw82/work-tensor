@@ -20,6 +20,7 @@
                 "sources/saby/wasaby-controls/*",
                 "sources/saby/wasaby-requirejs-loader/*",
                 "sources/sbis/core/*",
+                "sources/sbis/engine/*",
                 "sources/sbis/rmi/src/client/*",
                 "sources/sbis/ws/*",
             ],
