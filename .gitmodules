@@ -103,3 +103,6 @@
 [submodule "app/ya-ws-builder"]
 	path = app/ya-ws-builder
 	url = https://github.com/icw82/ya-ws-builder
+[submodule "sources/notice/engine"]
+	path = sources/notice/engine
+	url = git@git.sbis.ru:notice/engine.git

@@ -20,9 +20,10 @@
                 "sources/saby/wasaby-controls/*",
                 "sources/saby/wasaby-requirejs-loader/*",
                 "sources/sbis/core/*",
-                "sources/sbis/engine/*",
+                "sources/sbis/engine/client/*",
                 "sources/sbis/rmi/src/client/*",
                 "sources/sbis/ws/*",
+                "sources/notice/engine/client/*",
             ],
             "Core/*": [
                 "sources/sbis/ws/WS.Core/core/*"
