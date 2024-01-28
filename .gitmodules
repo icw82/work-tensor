@@ -19,6 +19,9 @@
 [submodule "sources/eo/collation"]
 	path = sources/eo/collation
 	url = git@git.sbis.ru:eo/collation.git
+[submodule "sources/eo/inspector"]
+	path = sources/eo/inspector
+	url = git@git.sbis.ru:eo/inspector.git
 [submodule "sources/eo/engine"]
 	path = sources/eo/engine
 	url = git@git.sbis.ru:eo/engine.git
