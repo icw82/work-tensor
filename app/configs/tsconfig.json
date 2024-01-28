@@ -14,12 +14,16 @@
                 "sources/eo/custom-ui/client/*",
                 "sources/eo/registry/client/*",
                 "sources/fed/core/client/*",
+                "sources/notice/engine/client/*",
                 "sources/root/sbis3-docview/*",
+
                 "sources/saby/types/*",
                 "sources/saby/ui/*",
+                "sources/saby/wasaby-app/src/*",
                 "sources/saby/wasaby-controls/*",
                 "sources/saby/wasaby-requirejs-loader/*",
                 "sources/sbis/core/*",
+                "sources/sbis/engine/client/*",
                 "sources/sbis/rmi/src/client/*",
                 "sources/sbis/ws/*",
             ],
@@ -48,7 +52,7 @@
     //     "./**/*.tsx"
     // ],
     // "files": [
-    //     "./builds/online/build-ui/resources/WS.Core/global.d.ts"
+    //     "../mocks/global.d.ts"
     // ]
 
     // "ts-node": {

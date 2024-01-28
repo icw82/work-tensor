@@ -16,6 +16,9 @@
 [submodule "sources/eo/np"]
 	path = sources/eo/np
 	url = git@git.sbis.ru:eo/np.git
+[submodule "sources/eo/collation"]
+	path = sources/eo/collation
+	url = git@git.sbis.ru:eo/collation.git
 [submodule "sources/eo/engine"]
 	path = sources/eo/engine
 	url = git@git.sbis.ru:eo/engine.git
@@ -85,12 +88,6 @@
 [submodule "sources/staff/staff"]
 	path = sources/staff/staff
 	url = git@git.sbis.ru:staff/staff.git
-[submodule "app/lint-configs"]
-	path = app/lint-configs
-	url = git@github.com:icw82/lint-configs.git
-[submodule "app/ya-ws-builder"]
-	path = app/ya-ws-builder
-	url = git@github.com:icw82/ya-ws-builder.git
 [submodule "sources/sbis/rmi"]
 	path = sources/sbis/rmi
 	url = git@git.sbis.ru:sbis/rmi.git
@@ -100,3 +97,12 @@
 [submodule "sources/saby/wasaby-requirejs-loader"]
 	path = sources/saby/wasaby-requirejs-loader
 	url = git@git.sbis.ru:saby/wasaby-requirejs-loader.git
+[submodule "app/lint-configs"]
+	path = app/lint-configs
+	url = https://github.com/icw82/lint-configs.git
+[submodule "app/ya-ws-builder"]
+	path = app/ya-ws-builder
+	url = https://github.com/icw82/ya-ws-builder
+[submodule "sources/notice/engine"]
+	path = sources/notice/engine
+	url = git@git.sbis.ru:notice/engine.git
