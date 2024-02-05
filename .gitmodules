@@ -109,3 +109,6 @@
 [submodule "sources/notice/engine"]
 	path = sources/notice/engine
 	url = git@git.sbis.ru:notice/engine.git
+[submodule "sources/engine/saby-page"]
+	path = sources/engine/saby-page
+	url = git@git.sbis.ru:engine/saby-page.git
